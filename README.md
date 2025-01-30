@@ -17,7 +17,7 @@ I’m passionate about software development and currently working on enhancing m
 - Created a restaurant management app with Java (Object-Oriented Programming).
 - Built a carnival shooter game using HTML, CSS, and JavaScript for gameplay mechanics.  
 
-🎮 Outside of Work, I'm interested in keeping up with the latest developments in science and tech. I also play a lot of games and I am currently self-teaching Spanish.
+🎮 Outside of work, I'm interested in keeping up with the latest developments in science and tech. I also play a lot of games and I am currently self-teaching Spanish.
 
 #### 💬 Let’s Connect! 
 
